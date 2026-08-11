@@ -10,7 +10,7 @@ My journey started with **software development, data, and Salesforce**, and I'm 
 
 * 🤖 Artificial Intelligence & AI tools
 * 🐍 Python
-* ☁️ Salesforce & automation
+* ☁️ Salesforce
 * 📊 Data & analytics
 * 💡 Software development
 
