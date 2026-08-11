@@ -16,7 +16,7 @@ My journey started with **software development, data, and Salesforce**, and I'm 
 
 ### 🛠️ Tech I've worked with
 
-`Java` `Python` `JavaScript` `SQL` `Salesforce` `Power BI` `GitHub`
+`Java` `Python` `JavaScript` `SQL` `Salesforce` `Power BI` `GitHub` `HTML` `CSS`
 
 ### ✨ A little about me
 
